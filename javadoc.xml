@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\eclipse-java\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\eclipse-java\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar" destdir="Javadoc" doctitle="Frogger Javadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="frogger.view,frogger.controller,frogger.model,frogger,frogger.JUnit" source="10" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="file:/Z:/G52SWM_CW2_scytl2/g52swm_cw2_scytl2/Javadoc/"/>
+        </javadoc>
+    </target>
+</project>

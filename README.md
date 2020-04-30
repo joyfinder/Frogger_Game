@@ -1,9 +1,24 @@
 # Extended functionalities
 
+## GUI interfaces:
+
+### 1. Start Window
+<img src = "https://github.com/joyfinder/Frogger_Game/blob/master/src/frogger/view/Frogger%E5%B0%81%E9%9D%A2.png" height = "400" width = "600">
+
+### 2. Trigger Event
+<img src = "https://github.com/joyfinder/Frogger_Game/blob/master/src/frogger/view/Trigger%20event%20Screen.png" height = "400" width = "600">
+
+### 3. Hi Score Board
+<img src = "https://github.com/joyfinder/Frogger_Game/blob/master/src/frogger/view/High%20Score%20screen.png" height = "400" width = "600">
 
 
 
-Key changes I have been making:
+
+
+
+
+
+In terms of refactoring, there are 4 key changes I have been making:
 
 **1. Extracting large class into smaller class**
 

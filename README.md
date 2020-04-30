@@ -1,3 +1,8 @@
+# Extended functionalities
+
+
+
+
 Key changes I have been making:
 
 **1. Extracting large class into smaller class**
